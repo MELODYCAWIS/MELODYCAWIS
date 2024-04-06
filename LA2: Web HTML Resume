@@ -1,12 +1,81 @@
-- 👋 Hi, I’m @MELODYCAWIS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
 
-<!---
-MELODYCAWIS/MELODYCAWIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <header>
+        <h1>Divina, Melody Cawis</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section class="section">
+        <h2>Contact Information</h2>
+        <p>Email: melodydivina18@gmail.com</p>
+        <p>Cellphone Number: 0953****018</p>
+    </section>
+
+    <section class="section">
+        <h2>Education</h2>
+        <p><strong>Degree | Ilocos Sur Polytechnic State College</strong></p>
+        <p>Bachelor of Science in Computer Science</p>
+        <p>A.Y.: 2021-2025</p>
+        <p><strong>High School Diploma | Kalumsing Integrated School </strong></p>
+        <p>HUMSS</p>
+        <p>S.Y.: 2020-2021</p>
+        <p><strong>Elementary Diploma | Banucal Elementary School </strong></p>
+        <p>S.Y.: 2008-2014</p>
+        
+    </section>
+
+    <section class="section">
+        <h2>Work Experience</h2>
+        <p>N/A</p>
+
+    <section class="section">
+        <h2>Skills</h2>
+        <p>Computer Literate</p>
+    </section>
+
+    <section class="section">
+        <h2>Seminars and Trainings</h2>
+        <p><strong>TechTalks | Village 88</strong></p>
+        <p>December 11, 2023</p>
+        <p><strong>Fundamentals of Mobile App Development</strong></p>
+        <p>January 16, 2024</p>
+    </section>
+  
+   
+        <section class="section">
+        <h2>References</h2>
+        <p><strong>Alfredo Cawis│09278744491</strong></p>
+        <p>Banucal Lidlidda Ilocos Sur</p>
+        <p>Brgy. Captain</p>
+        <p><strong>Letty Barceta| N/A</strong></p>
+        <p>Banucal Lidlidda Ilocos Sur</p>
+        <p>Brgy. Kagawad</p>
+        <p><strong>Leslie Ariane Lupadit | 09672104601</strong>
+        <p>Banucal Lidlidda Ilocos Sur</p>
+        <p>SK CHAIRMAN</p>
+
+    <footer>
+        <p>References available upon request</p>
+    </footer>
+
+</body>
+</html>
